@@ -1,3 +1,7 @@
+DROP TABLE speedtest_users;
+DROP TABLE speedtest_users_id_seq;
+DROP TABLE speedtest_users_pkey;
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
